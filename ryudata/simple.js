@@ -45,8 +45,8 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 
 *Berikut List Menu Yang Tersedia Di ${global.namabot}*
 
-*Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
-*Owner Atau Creator Agar Segera Di Fix 😎*
+*Bot ini bernama BOT OFFICIAL WHATSAPP, Jika mau sewa ketik .sewa*
+*Jika Ada Bug Atau Error, Owner Atau Creator Agar Segera Di Fix 😎*
 
 *Terima Kasih 🙏*
 `
