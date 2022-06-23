@@ -71,7 +71,7 @@ done: '*DONE NGAB 🤗*',
 }
 
 //===> KALO MAU MENYESUAIKAN NAMA FILE FOTO NYA
-global.thumb = fs.readFileSync('./media/hiruko.jpg')
+global.thumb = fs.readFileSync('./media/Animals robot🐱🐶🐼🐰🤖.png')
 global.donasi = fs.readFileSync('./media/donasi.jpg')
 global.thumbmp4 = fs.readFileSync('./media/hiruko.mp4')
     
