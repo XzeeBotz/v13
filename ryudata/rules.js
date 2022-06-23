@@ -12,8 +12,8 @@ Sanksi : *Warn/Soft Block 🚧*
 👦 : Bot nya Slow Respon 😒
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
-👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+👦 : Bot Nya Bisa Disewa In Di Grub? 😁
+🤖 : Bot Ini Bisa Di Sewa Di Grub. Mau Sewa? Ketik .sewa
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
